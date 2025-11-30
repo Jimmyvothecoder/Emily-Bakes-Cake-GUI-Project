@@ -1,6 +1,8 @@
 # Emily Bakes Cakes 🎂
 
-A responsive bakery website showcasing delicious cakes and custom cake ordering options.
+## Overview
+
+**Emily Bakes Cakes** is a website designed to help Emily streamline her cake ordering process and increase profits. Previously, Emily managed orders manually on paper, which was inefficient and time-consuming. This project introduces a **graphical user interface (GUI) prototype** to digitize her ordering system, making the process more efficient, structured, and scalable.
 
 ## Features
 
@@ -112,9 +114,20 @@ Then open your browser and navigate to: `http://localhost:8000/EmilyBC.html`
 - Edge
 - Opera
 
+## Future Improvements
+
+- **Backend Integration:** Implement a database (e.g., Firebase, MySQL) to store orders
+- **Payment Processing:** Add support for online payments
+- **Admin Dashboard:** Provide order management tools for Emily
+- **Automated Notifications:** Send email confirmations for placed orders
+
 ## Contributing
 
 Feel free to fork this project and submit pull requests for any improvements!
+
+## Contact
+
+For inquiries or support, contact Jimmy Vo at [jtvo8@cougarnet.uh.edu](mailto:jtvo8@cougarnet.uh.edu)
 
 ## License
 
